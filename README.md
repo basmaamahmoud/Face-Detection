@@ -2,7 +2,7 @@
 How to detect faces in images using Clarifai api
 # Face Detect App
 
-- This app allows users to take a life photo using a mobile camera, tag heer text field will appear in the middle of each in the picture where a user can enter the name for the face he wants to save. 
+- This app allows users to take a life photo using a mobile camera, "tag here" text field will appear in the middle of each face in the picture where a user can enter the name for the face he wants to save. 
 - All selected faces will be stored with the original image.
 
 ## Setup
